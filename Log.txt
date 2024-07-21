@@ -1,0 +1,4 @@
+AMD:
+Found records:1328
+ Ellapsed mSec:204
+TimeTick:159, 170, 179, 187, 189, 195, 192, 192, 190, 182, 178, 161, 
